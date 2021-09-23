@@ -4,7 +4,7 @@ let etapas = [
         numeros:5,
         candidatos:[
             {
-                numero:19564,
+                numero:'19564',
                 nome:'Mercedes de Souza',
                 partido:'EDD',
                 fotos:[
@@ -12,11 +12,11 @@ let etapas = [
                 ]
             },
             {
-                numero:20152,
+                numero:'20062',
                 nome:'Vitor Ramos de Souza Alexandre',
-                partido:'EDD',
+                partido:'',
                 fotos:[
-                    {url:'20152.jpg',legenda:'Vereador',small:false}
+                    {url:'20062.jpg',legenda:'Vereador',small:false}
                 ]
             },
         ]
@@ -26,7 +26,7 @@ let etapas = [
         numeros:2,
         candidatos:[
             {
-                numero:00,
+                numero:'00',
                 nome:'Beatriz Ramos de Souza Alexandre',
                 partido:'GERAÇÃO1',
                 vice:'Thayná de Souza Alexandre Barrera',
@@ -36,7 +36,7 @@ let etapas = [
                 ]
             },
             {
-                numero:18,
+                numero:'18',
                 nome:'Gabriel de Souza Alexandre Scachette',
                 partido:'GERAÇÃO4',
                 vice:'Laura Ramos de Souza Alexandre',
