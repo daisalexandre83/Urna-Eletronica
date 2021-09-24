@@ -32,7 +32,7 @@ let etapas = [
                 vice:'Thayná de Souza Alexandre Barrera',
                 fotos:[
                     {url:'00.jpg',legenda:'Prefeito'},
-                    {url:'00_2',legenda:'Vice-Prefeito',small:true}
+                    {url:'02.jpg',legenda:'Vice-Prefeito',small:true}
                 ]
             },
             {

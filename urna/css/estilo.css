@@ -120,13 +120,12 @@ body{
     background-color: #fff;
     text-align: center;
     font-size: 14px;
-    padding-top: 32px;
 }
 .d1-image img{
     width: 100%;
 }
 .d1-image.small{
-    width: 80%;
+    width: 70%;
     font-size: 12px;
 }
 .d-2{
@@ -138,4 +137,12 @@ body{
 .aviso--grande{
     font-size: 40px;
     font-weight: bold;
+}
+.aviso--gigante{
+    font-size: 70px;
+    font-weight: bold;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
